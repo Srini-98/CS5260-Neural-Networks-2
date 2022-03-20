@@ -1,0 +1,98 @@
+[I 20:22:13.946 NotebookApp] [nb_conda_kernels] enabled, 6 kernels found
+[I 20:22:14.955 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:22:14.956 NotebookApp] Serving notebooks from local directory: /home/a/ajayago/cs5260/goodreads/benchmarks
+[I 20:22:14.956 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 20:22:14.956 NotebookApp] http://localhost:8889/
+[I 20:22:14.956 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:22:14.968 NotebookApp] No web browser found: could not locate runnable browser.
+[I 20:22:27.296 NotebookApp] 302 GET / (127.0.0.1) 1.220000ms
+[I 20:22:38.480 NotebookApp] Creating new notebook in 
+[I 20:22:46.215 NotebookApp] Kernel started: dd503024-adae-4e78-8344-450f25707dd4, name: python3
+[I 20:24:46.148 NotebookApp] Saving file at /cmf.ipynb
+[I 20:26:46.089 NotebookApp] Saving file at /cmf.ipynb
+[I 20:28:46.950 NotebookApp] Saving file at /cmf.ipynb
+[I 21:48:50.964 NotebookApp] Saving file at /cmf.ipynb
+[I 21:50:47.062 NotebookApp] Saving file at /cmf.ipynb
+[I 21:52:46.214 NotebookApp] Saving file at /cmf.ipynb
+[I 21:54:47.376 NotebookApp] Saving file at /cmf.ipynb
+[I 22:04:47.134 NotebookApp] Saving file at /cmf.ipynb
+[I 22:20:47.172 NotebookApp] Saving file at /cmf.ipynb
+[I 22:38:46.288 NotebookApp] Saving file at /cmf.ipynb
+[I 22:40:46.253 NotebookApp] Saving file at /cmf.ipynb
+[I 22:44:48.253 NotebookApp] Saving file at /cmf.ipynb
+[W 22:47:17.783 NotebookApp] WebSocket ping timeout after 119139 ms.
+[I 22:47:22.786 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 22:47:34.466 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 22:50:47.339 NotebookApp] Saving file at /cmf.ipynb
+[I 23:00:46.289 NotebookApp] Saving file at /cmf.ipynb
+[I 23:02:46.433 NotebookApp] Saving file at /cmf.ipynb
+[I 23:04:47.533 NotebookApp] Saving file at /cmf.ipynb
+[I 23:06:47.239 NotebookApp] Saving file at /cmf.ipynb
+[I 23:20:46.422 NotebookApp] Saving file at /cmf.ipynb
+[I 23:22:46.408 NotebookApp] Saving file at /cmf.ipynb
+[I 23:24:46.378 NotebookApp] Saving file at /cmf.ipynb
+[I 23:26:46.860 NotebookApp] Saving file at /cmf.ipynb
+[I 23:28:47.701 NotebookApp] Saving file at /cmf.ipynb
+[I 00:49:53.079 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 07:46:26.412 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 07:46:47.777 NotebookApp] Kernel interrupted: dd503024-adae-4e78-8344-450f25707dd4
+[I 07:48:40.446 NotebookApp] Saving file at /cmf.ipynb
+[I 07:50:40.466 NotebookApp] Saving file at /cmf.ipynb
+[I 07:51:11.990 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 07:51:14.712 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 07:51:14.892 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 07:51:16.372 NotebookApp] Replaying 11 buffered messages
+[I 07:52:41.303 NotebookApp] Saving file at /cmf.ipynb
+[I 07:55:27.588 NotebookApp] Kernel interrupted: dd503024-adae-4e78-8344-450f25707dd4
+[I 07:56:40.447 NotebookApp] Saving file at /cmf.ipynb
+[I 07:58:40.446 NotebookApp] Saving file at /cmf.ipynb
+[I 08:00:41.550 NotebookApp] Saving file at /cmf.ipynb
+[I 08:01:41.050 NotebookApp] Saving file at /cmf.ipynb
+[I 08:01:46.436 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:01:47.391 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:01:47.444 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:01:48.565 NotebookApp] Replaying 3 buffered messages
+[I 08:02:41.342 NotebookApp] Saving file at /cmf.ipynb
+[I 08:06:40.402 NotebookApp] Saving file at /cmf.ipynb
+[I 08:07:14.475 NotebookApp] Saving file at /cmf.ipynb
+[I 08:07:19.761 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:07:20.612 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:07:20.659 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:07:21.767 NotebookApp] Replaying 3 buffered messages
+[I 08:08:40.596 NotebookApp] Saving file at /cmf.ipynb
+[I 08:08:47.606 NotebookApp] Saving file at /cmf.ipynb
+[I 08:10:40.454 NotebookApp] Saving file at /cmf.ipynb
+[I 08:12:40.507 NotebookApp] Saving file at /cmf.ipynb
+[I 08:13:32.944 NotebookApp] Saving file at /cmf.ipynb
+[I 08:17:57.764 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:17:59.023 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:17:59.066 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:18:02.081 NotebookApp] Replaying 3 buffered messages
+[I 08:18:40.416 NotebookApp] Saving file at /cmf.ipynb
+[I 08:20:41.282 NotebookApp] Saving file at /cmf.ipynb
+[I 08:22:40.423 NotebookApp] Saving file at /cmf.ipynb
+[I 08:24:40.515 NotebookApp] Saving file at /cmf.ipynb
+[I 08:26:40.517 NotebookApp] Saving file at /cmf.ipynb
+[I 08:26:42.048 NotebookApp] Saving file at /cmf.ipynb
+[I 08:27:47.438 NotebookApp] Saving file at /cmf.ipynb
+[I 08:28:24.185 NotebookApp] Saving file at /cmf.ipynb
+[I 08:28:40.424 NotebookApp] Saving file at /cmf.ipynb
+[I 08:28:47.991 NotebookApp] Saving file at /cmf.ipynb
+[I 08:28:54.369 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:28:55.615 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:28:55.659 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:28:56.766 NotebookApp] Replaying 3 buffered messages
+[I 08:30:40.471 NotebookApp] Saving file at /cmf.ipynb
+[I 08:30:49.656 NotebookApp] Saving file at /cmf.ipynb
+[I 08:31:38.707 NotebookApp] Saving file at /cmf.ipynb
+[I 08:31:41.676 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:31:42.525 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:31:42.566 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:31:43.650 NotebookApp] Replaying 3 buffered messages
+[I 08:32:41.375 NotebookApp] Saving file at /cmf.ipynb
+[I 08:34:29.835 NotebookApp] Starting buffering for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:34:30.695 NotebookApp] Kernel restarted: dd503024-adae-4e78-8344-450f25707dd4
+[I 08:34:30.737 NotebookApp] Restoring connection for dd503024-adae-4e78-8344-450f25707dd4:8f2d4d87607c40ae81a85cf97477625b
+[I 08:34:31.849 NotebookApp] Replaying 3 buffered messages
+[I 08:34:40.428 NotebookApp] Saving file at /cmf.ipynb
+[I 08:36:40.439 NotebookApp] Saving file at /cmf.ipynb
