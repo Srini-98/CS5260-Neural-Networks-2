@@ -39,3 +39,6 @@ conda activate cs5260
 
 
 ```
+
+#### Overall Pipeline 
+![pipeline](./overall_pipeline.jpg)
